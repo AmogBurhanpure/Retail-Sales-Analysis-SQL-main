@@ -61,8 +61,8 @@ The schema is visualized below:
 ## 📬 Contact
 
 **Vaibhav Karale**  
-📧 karalevaibhav02@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-karale)
+📧 amogsidhaburhanpure@gmail.com
+🌐 [LinkedIn][(https://www.linkedin.com/in/amogsiddh-burhanpure-a9363928a/)
 
 ---
 
